@@ -25,8 +25,8 @@ menuloop = 1
 # Use a loop to keep repeating until user makes a selection of what they want to do
 
 while menuloop == 1
-  
 
+#
 # # Use a loop to keep adding items to list until user is finished
 # while listadd == "y" do
 #   puts "What would you like to add? (Type 'remove' to remove item or 'end' to finish)"
