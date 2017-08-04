@@ -1,1 +1,3 @@
-# shoppingCart
+# shoppingCart README
+
+Test Git commit
